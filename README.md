@@ -4,18 +4,17 @@
 
 - <b>PowerShell</b>
   - [Active Directory Setup and internal network for users](https://github.com/khalid1abdullahi/ActiveDirectoryLab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/khalid1abdullahi/AddingNewUsersInBulks)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+ 
   
 - <b> Amazon Web services </b>
-  - [Creating a dynamic website on Amazon AWS](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Amazon EC2 Backup restore using AWS Backup](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Building a conversational bot in AWS](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Creating a dynamic website on Amazon AWS]
+  - [Amazon EC2 Backup restore using AWS Backup]
+  - [Building a conversational bot in AWS]
     
 - <h2> Certification </h2>
-- [Comptia A+](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorith)
-- [Comptia Network+](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorith)
+- [Comptia A+]
+- [Comptia Network+]
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Khalid Abdullahi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
