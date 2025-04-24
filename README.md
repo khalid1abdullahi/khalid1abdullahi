@@ -3,9 +3,9 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Active Directory Setup and internal network for users](https://github.com/khalid1abdullahi/ActiveDirectoryLab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/khalid1abdullahi/AddingNewUsersInBulks)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
 - <b> Amazon Web services </b>
