@@ -9,12 +9,12 @@
   
 - <b> Amazon Web services </b>
   - [Creating a dynamic website on Amazon AWS](https://github.com/khalid1abdullahi/Creating-a-dynamic-website-on-Amazon-AWS)
-  - [Amazon EC2 Backup restore using AWS Backup]
-  - [Building a conversational bot in AWS]
+  - [Amazon EC2 Backup restore using AWS Backup](https://github.com/khalid1abdullahi/Amazon-EC2-Backup-restore-using-AWS-Backup)
+  - [Building a conversational bot in AWS](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
     
 - <h2> Certification </h2>
 - [Comptia A+]
-- [Comptia Network+]
+- [Comptia Network+ in Progress]
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Khalid Abdullahi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
