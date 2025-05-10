@@ -13,7 +13,7 @@
   - [Building a conversational bot in AWS](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
     
 - <h2> Certification </h2>
-- [Comptia A+]
+- [Comptia A+](https://www.credly.com/badges/270ad04e-5957-41c8-af49-b724493ecc00/public_url)
 - [Comptia Network+ in Progress]
 <h2> 🤳 Connect with me:</h2>
 
