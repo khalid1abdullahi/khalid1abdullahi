@@ -7,10 +7,13 @@
   - [Active Directory Bulk User Creation](https://github.com/khalid1abdullahi/AddingNewUsersInBulks)
  
   
-- <b> Amazon Web services </b>
+- <b>Amazon Web services</b>
   - [Creating a dynamic website on Amazon AWS](https://github.com/khalid1abdullahi/Creating-a-dynamic-website-on-Amazon-AWS)
   - [Amazon EC2 Backup restore using AWS Backup](https://github.com/khalid1abdullahi/Amazon-EC2-Backup-restore-using-AWS-Backup)
   - [Building a conversational bot in AWS](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
+
+- <b>Networking</b>
+
     
 - <h2> Certification </h2>
 - [Comptia A+](https://www.credly.com/badges/270ad04e-5957-41c8-af49-b724493ecc00/public_url)
