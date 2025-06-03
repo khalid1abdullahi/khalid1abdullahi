@@ -1,6 +1,6 @@
 <h1>Hi, I'm Khalid! <br/><a <a href="https://www.linkedin.com/in/khalidabdullahi/">IT support and Network Engineer Professional</a>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Homelabs:</h2>
 
 - <b>PowerShell</b>
   - [Active Directory Setup and internal network for users](https://github.com/khalid1abdullahi/ActiveDirectoryLab)
@@ -13,11 +13,18 @@
   - [Building a conversational bot in AWS](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
 
 - <b>Networking</b>
+  - [Home Network Mapping with Nmap](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
+  - [Wireshark Traffic Analysis Lab](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
+  - [Setting Up a Virtual LAN (VLAN) in Packet Tracer](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
 
+- <b>AI Support</b>
+ - [AI-Powered Support Response Generator](https://github.com/khalid1abdullahi/Creating-a-dynamic-website-on-Amazon-AWS)
+ - [AI Chat Evaluation & Feedback](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
+ - [AI Tool Comparison for Support Use](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
     
 - <h2> Certification </h2>
-- [Comptia A+](https://www.credly.com/badges/270ad04e-5957-41c8-af49-b724493ecc00/public_url)
-- [Comptia Network+ in Progress]
+ - [Comptia A+](https://www.credly.com/badges/270ad04e-5957-41c8-af49-b724493ecc00/public_url)
+ - [Comptia Network+ in Progress]
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Khalid Abdullahi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
