@@ -18,9 +18,9 @@
   - [Setting Up a Virtual LAN (VLAN) in Packet Tracer](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
 
 - <b>AI Support</b>
- - [AI-Powered Support Response Generator](https://github.com/khalid1abdullahi/Creating-a-dynamic-website-on-Amazon-AWS)
- - [AI Chat Evaluation & Feedback](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
- - [AI Tool Comparison for Support Use](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
+  - [AI-Powered Support Response Generator](https://github.com/khalid1abdullahi/Creating-a-dynamic-website-on-Amazon-AWS)
+  - [AI Chat Evaluation & Feedback](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
+  - [AI Tool Comparison for Support Use](https://github.com/khalid1abdullahi/Building-a-conversational-bot-in-AWS)
     
 - <h2> Certification </h2>
  - [Comptia A+](https://www.credly.com/badges/270ad04e-5957-41c8-af49-b724493ecc00/public_url)
