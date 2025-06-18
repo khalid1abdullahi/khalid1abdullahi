@@ -21,6 +21,8 @@
   - [AI-Powered Support Response Generator](https://github.com/khalid1abdullahi/AI-Powered-Support-Response-Generator)
   - [AI Chat Evaluation & Feedback](https://github.com/khalid1abdullahi/AI-Chat-Evaluation-Feedback)
   - [AI Tool Comparison for Support Use](https://github.com/khalid1abdullahi/AI-Tool-Comparison-for-Support-Use)
+
+- <b>Microsoft SQL</b>
     
 - <h2> Certification </h2>
  - [Comptia A+](https://www.credly.com/badges/270ad04e-5957-41c8-af49-b724493ecc00/public_url)
